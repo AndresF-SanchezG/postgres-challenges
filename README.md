@@ -33,6 +33,11 @@ For this project, you will build a database of celestial bodies using PostgreSQL
 
 ![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/bd1b91c6-deaa-4a37-8d6c-4df66df5bbc1)
 
+### Star Table
+![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/9e874786-f0ef-40e8-a654-4af006d1d22e)
+![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/36f27e23-edf5-442e-b8ae-4480424b3c04)
+
+
 # Links
 
 - Live Site URL: [Vercel deployed app](https://challenge8-inky.vercel.app/)
