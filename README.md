@@ -45,15 +45,8 @@ For this project, you will build a database of celestial bodies using PostgreSQL
 ![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/a995b2dc-ca61-41ac-8d46-6fc4336754dd)
 ![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/6ff381e9-9a16-4ea5-8a26-a87b995d295e)
 
-
-
-
-# Links
-
-- Live Site URL: [Vercel deployed app](https://challenge8-inky.vercel.app/)
-
 # Author
 
 - Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
-- School - [Frontend Mentor](https://www.frontendmentor.io/profile/AndresF-SanchezG)
-- Challenge - [Social proof section](https://www.frontendmentor.io/solutions/challenge-resolved-with-html-and-css-xeQXw49vtb)
+- School - [Freecodecamp](https://www.freecodecamp.org/)
+- Curse - [Build a Celestial Bodies Database](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database)
