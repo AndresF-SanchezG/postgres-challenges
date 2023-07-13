@@ -37,6 +37,16 @@ For this project, you will build a database of celestial bodies using PostgreSQL
 ![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/9e874786-f0ef-40e8-a654-4af006d1d22e)
 ![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/36f27e23-edf5-442e-b8ae-4480424b3c04)
 
+### Planet Table
+![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/f9d9fe6b-3235-47e7-b485-64453730ac0e)
+![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/540c672c-60d0-467b-b6a6-d2a07b2402cb)
+
+### Moon Table
+![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/a995b2dc-ca61-41ac-8d46-6fc4336754dd)
+![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/6ff381e9-9a16-4ea5-8a26-a87b995d295e)
+
+
+
 
 # Links
 
