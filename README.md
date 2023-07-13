@@ -15,7 +15,6 @@ For this project, you will build a database of celestial bodies using PostgreSQL
 - Each "star" should have a foreign key that references one of the rows in galaxy.
 - Each "planet" should have a foreign key that references one of the rows in star.
 - Each "moon" should have a foreign key that references one of the rows in planet.
-- Your database should have at least five tables.
 - Each table should have at least three rows.
 - The galaxy and star tables should each have at least six rows.
 - The planet table should have at least 12 rows.
@@ -29,8 +28,10 @@ For this project, you will build a database of celestial bodies using PostgreSQL
 - Each foreign key column should have the same name as the column it is referencing.
 # Screenshot
 
-![Captura2](https://github.com/AndresF-SanchezG/Challenge8/assets/113924667/ffb78d6a-849c-4464-a3d1-bb21736cba6e)
-![Captura2](https://github.com/AndresF-SanchezG/Challenge8/assets/113924667/65c1aea0-abfe-4ce9-9fa6-2582d48b4d58)
+### Galaxy table
+![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/07b5eb3c-5c9e-4a24-a321-6437435c58f6)
+
+![Captura2](https://github.com/AndresF-SanchezG/postgres-challenges/assets/113924667/bd1b91c6-deaa-4a37-8d6c-4df66df5bbc1)
 
 # Links
 
